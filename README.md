@@ -1,9 +1,9 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1e1b4b,4338ca,0284c7&height=230&section=header&text=Aniruddha%20Bhutada&fontSize=48&fontAlignY=36&animation=twinkling&desc=AI%20Automation%20Architect%20%7C%20LLM%20%26%20Agentic%20Systems%20%7C%20Founder%20@%20Fauxi&descAlignY=62&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0284c7&height=200&section=header&text=Aniruddha%20Bhutada&fontSize=42&fontColor=ffffff&fontAlignY=40" width="100%" alt="Aniruddha Bhutada Header"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=🤖+Building+Autonomous+AI+Agents+%26+LLM+Workflows;⚡+Founder+%40+Fauxi+--+AI-Accelerated+Web+Solutions;🚀+Specializing+in+LangChain%2C+FastAPI+%26+Next.js;🎓+BCA+(AI+%26+ML)+Student+%40+TCET+Mumbai" alt="Typing SVG" />
+  <a href="https://github.com/aniruddhabhutada">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=AI+Automation+and+LLM+Engineer;Building+Autonomous+AI+Agents;Founder+at+Fauxi+--+AI+Web+Solutions;BCA+AIML+Student+at+TCET+Mumbai" alt="Typing SVG" />
   </a>
 </div>
 
@@ -111,25 +111,18 @@ developer:
 
 ---
 
-### 📊 GitHub Analytics & Streak
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniruddhabhutada&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=38bdf8&text_color=c9d1d9" alt="Aniruddha's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniruddhabhutada&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniruddhabhutada&theme=react-dark&hide_border=true&area=true" width="100%" alt="Aniruddha's Contribution Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddhabhutada&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="Streak Stats" />
-</div>
-
----
-
-### 🐍 Contribution Graph Matrix
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/aniruddhabhutada/aniruddhabhutada/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Grid" width="100%"/>
+  <img src="https://img.shields.io/github/followers/aniruddhabhutada?style=for-the-badge&logo=github&color=6366F1&labelColor=0D1117" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Public_Repos-5-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/github/stars/aniruddhabhutada?style=for-the-badge&logo=github&color=F59E0B&labelColor=0D1117" alt="Stars"/>
 </div>
 
 ---
@@ -153,5 +146,5 @@ developer:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,1e1b4b,4338ca&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:4338ca&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </div>
